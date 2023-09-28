@@ -12,4 +12,15 @@
     <string name="experiencies">Experiencies</string>
     <string name="videos">Videos</string>
     <string name="channels">Channels</string>
+    <string name="notifications">Notifications</string>
+    <string name="feedback_mailbox">Feedback Mailbox</string>
+    <string name="your_favorite_game">Your favorite game</string>
+    <string name="app_updates">App updates</string>
+    <string name="change_account">Change account</string>
+    <string name="privacy">Privacy</string>
+    <string name="profile_amateur_image">Profile amateur image</string>
+    <string name="logo_game_image">Logo game image</string>
+    <string name="image_of_transmitter">image of transmitter</string>
+    <string name="type_your_feedback">Type your feedback</string>
+    <string name="image_of_coach">Image of coach</string>
 </resources>
