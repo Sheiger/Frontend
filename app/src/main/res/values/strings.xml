@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">LevelUpCenter</string>
+    <string name="amateur_profile_image">amateur-profile-image</string>
+    <string name="configuration">Configuration</string>
+    <string name="profile">Profile</string>
+    <string name="button_to_perform_action">Button to perform action</string>
+    <string name="add_videos">add videos</string>
+    <string name="add_channels">add channels</string>
+    <string name="add_experiences">add experiences</string>
+    <string name="add_price">add price</string>
+    <string name="price">Price</string>
+    <string name="experiencies">Experiencies</string>
+    <string name="videos">Videos</string>
+    <string name="channels">Channels</string>
 </resources>
