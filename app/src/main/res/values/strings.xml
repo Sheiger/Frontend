@@ -1,26 +1,4 @@
 <resources>
-    <string name="app_name">LevelUpCenter</string>
-    <string name="amateur_profile_image">amateur-profile-image</string>
-    <string name="configuration">Configuration</string>
-    <string name="profile">Profile</string>
-    <string name="button_to_perform_action">Button to perform action</string>
-    <string name="add_videos">add videos</string>
-    <string name="add_channels">add channels</string>
-    <string name="add_experiences">add experiences</string>
-    <string name="add_price">add price</string>
-    <string name="price">Price</string>
-    <string name="experiencies">Experiencies</string>
-    <string name="videos">Videos</string>
-    <string name="channels">Channels</string>
-    <string name="notifications">Notifications</string>
-    <string name="feedback_mailbox">Feedback Mailbox</string>
-    <string name="your_favorite_game">Your favorite game</string>
-    <string name="app_updates">App updates</string>
-    <string name="change_account">Change account</string>
-    <string name="privacy">Privacy</string>
-    <string name="profile_amateur_image">Profile amateur image</string>
-    <string name="logo_game_image">Logo game image</string>
-    <string name="image_of_transmitter">image of transmitter</string>
-    <string name="type_your_feedback">Type your feedback</string>
-    <string name="image_of_coach">Image of coach</string>
+    <string name="app_name">AppEmerson</string>
+    <string name="levelupcenter">LevelUpCenter</string>
 </resources>

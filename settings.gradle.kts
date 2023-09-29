@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LevelUpCenter"
+rootProject.name = "AppEmerson"
 include(":app")

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.levelupcenter"
+    namespace = "com.example.appemerson"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.levelupcenter"
+        applicationId = "com.example.appemerson"
         minSdk = 28
         targetSdk = 33
         versionCode = 1
